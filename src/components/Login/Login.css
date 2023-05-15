@@ -1,0 +1,38 @@
+.LogDiv{
+    margin-left: 40%;
+    margin-top: 10%;
+    width: 25%;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(210, 207, 207);
+}
+.LogDiv input{
+    padding: 10px 30px;
+}
+.LogDiv button{
+    margin-top: 5%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    padding:  5px 30px;
+    border-radius: 10px;
+    color: wheat;
+    background-color: rgb(0, 149, 246);
+    width: 100%;
+}
+.LogDiv button:hover{
+    background-color: rgb(24, 119, 242);
+}
+.LogDiv img{
+    width: 40%;
+    margin-bottom: 7%;
+}
+.facebookDiv{
+    margin-top: 15%;
+}
+.facebookDiv a{
+    color: #2851A3;;
+}
